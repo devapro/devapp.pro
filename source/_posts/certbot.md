@@ -12,15 +12,21 @@ tags:
 
 ### Install Certbot 
 
-`wget https://dl.eff.org/certbot-auto
+``` bash
+wget https://dl.eff.org/certbot-auto
 sudo mv certbot-auto /usr/local/bin/certbot-auto
 sudo chown root /usr/local/bin/certbot-auto
-sudo chmod 0755 /usr/local/bin/certbot-auto`
+sudo chmod 0755 /usr/local/bin/certbot-auto
+```
 
 ### Either get and install your certificates
 
-`sudo /usr/local/bin/certbot-auto --nginx`
+``` bash
+sudo /usr/local/bin/certbot-auto --nginx
+```
 
 ### Just get a certificate 
 
-`sudo /usr/local/bin/certbot-auto certonly --nginx`
+``` bash
+sudo /usr/local/bin/certbot-auto certonly --nginx
+```
