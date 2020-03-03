@@ -7,6 +7,8 @@ tags:
 - cms
 - markdown
 - web
+excerpt:
+- Hexo main commands
 ---
 
 ## Quick Start

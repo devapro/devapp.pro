@@ -5,7 +5,9 @@ categories:
 - Linux
 tags:
 - nginx
-- ssl
+- SSL
+excerpt:
+- Creating SSL certificates
 ---
 
 ## Quick Start

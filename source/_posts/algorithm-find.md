@@ -5,6 +5,8 @@ categories:
 - Algorithm
 tags:
 - algorithm
+excerpt:
+- Алгоритмы поиска и краткое описание
 ---
 
 ## Линейный поиск
