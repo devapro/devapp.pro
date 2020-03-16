@@ -50,3 +50,5 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 ``` bash
 $  hexo new post name_post
 ```
+
+<https://www.markdownguide.org/basic-syntax/>
