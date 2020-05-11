@@ -6,6 +6,8 @@ tags:
   - Android
   - Bitmap
   - Image
+excerpt:
+  - Methods for working with bitmap without libraries
 date: 2020-03-10 16:22:26
 ---
 

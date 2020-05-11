@@ -4,8 +4,8 @@
 
 # Site
 title: DevApp Blog
-subtitle: ''
-description: ''
+subtitle: 'My short notice'
+description: 'I often looking for different solutions, but after times I usually was forgetting it. I decided to create this web site to save these useful solutions.'
 keywords:
 author: Developer
 language: en
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:

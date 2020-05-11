@@ -3,8 +3,10 @@ title: Android dialog on screen with notch
 categories:
   - Android
 tags:
-  - Android
-  - Screen notch
+  - android
+  - screen notch
+excerpt:
+  - Fix top space on screens with notch
 date: 2020-03-16 13:40:37
 ---
 

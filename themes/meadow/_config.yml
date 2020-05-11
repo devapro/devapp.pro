@@ -59,7 +59,7 @@ menu:
 # 页脚
 footer:
   since: false
-  powered: false
+  powered: true
   theme: false
   beian:
     enable: false
